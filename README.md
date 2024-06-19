@@ -1,3 +1,7 @@
+## Live Demo
+[Visit the web page](https://novu-chat.vercel.app/)
+
+
 ## Getting Started
 
 - Clone the repository
